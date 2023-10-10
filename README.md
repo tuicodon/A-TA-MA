@@ -48,10 +48,10 @@ https://f-droid.org/packages/com.termux/
 
 ## Tải về dự án
 - Để tải về phiên bản mới nhất của dự án này các bạn chạy dòng lệnh dưới
-```git clone https://github.com/nhatcoder2003/Gbot-War.git```
+```git clone https://github.com/nhatcoder2003/Gbot-War-V2.git```
 
 ## Thiết lập dự án
- - Sử dụng lệnh ``cd Gbot-War`` để truy cập vào thư mục dự án
+ - Sử dụng lệnh ``cd Gbot-War-V2`` để truy cập vào thư mục dự án
 
 - Chạy dòng lệnh bên dưới để cài đặt các thư mục cần thiết 
 
